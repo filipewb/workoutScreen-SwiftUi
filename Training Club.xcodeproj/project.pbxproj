@@ -11,6 +11,7 @@
 		79A6D1DD29CF41A5008BA76E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A6D1DC29CF41A5008BA76E /* ContentView.swift */; };
 		79A6D1DF29CF41A8008BA76E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79A6D1DE29CF41A8008BA76E /* Assets.xcassets */; };
 		79A6D1E229CF41A8008BA76E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79A6D1E129CF41A8008BA76E /* Preview Assets.xcassets */; };
+		79A6D1E929CF41E7008BA76E /* WorkoutDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A6D1E829CF41E7008BA76E /* WorkoutDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		79A6D1DC29CF41A5008BA76E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		79A6D1DE29CF41A8008BA76E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79A6D1E129CF41A8008BA76E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		79A6D1E829CF41E7008BA76E /* WorkoutDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				79A6D1DC29CF41A5008BA76E /* ContentView.swift */,
 				79A6D1DE29CF41A8008BA76E /* Assets.xcassets */,
 				79A6D1E029CF41A8008BA76E /* Preview Content */,
+				79A6D1E829CF41E7008BA76E /* WorkoutDetailView.swift */,
 			);
 			path = "Training Club";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79A6D1DD29CF41A5008BA76E /* ContentView.swift in Sources */,
+				79A6D1E929CF41E7008BA76E /* WorkoutDetailView.swift in Sources */,
 				79A6D1DB29CF41A5008BA76E /* Training_ClubApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
